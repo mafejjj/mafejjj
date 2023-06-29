@@ -1,4 +1,6 @@
 Olá, me chamo Maria Fernanda!!👋
+- Cursando Ensino Médio - Senai 📚
+- Técnico Desenvolvimento de Sistemas 👩‍💻
 
 <div>
   <a href="https://github.com/mafejjj">
