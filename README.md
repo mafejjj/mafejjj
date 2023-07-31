@@ -17,7 +17,6 @@ Olá, me chamo Maria Fernanda!!👋
   <a href="https://www.linkedin.com/in/maria-fernanda-de-jesus-18929b226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-![Snake animation](https://github.com/mafejjj/mafejjj/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
