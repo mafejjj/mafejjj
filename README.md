@@ -1,7 +1,6 @@
 Olá, me chamo Maria Fernanda!!👋
-- Cursando Ensino Médio - Senai 📚
 - Técnico Desenvolvimento de Sistemas 👩‍💻
-- Estudando JavaScript, HTML e CSS 🖥
+- Desenvolvedor júnior! 🖥
 
 <br>
 <div>
