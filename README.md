@@ -1,5 +1,4 @@
 Olá, me chamo Maria Fernanda!!👋
-- Técnico Desenvolvimento de Sistemas 👩‍💻
 - Desenvolvedor júnior! 🖥
 
 <br>
