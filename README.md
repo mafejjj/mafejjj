@@ -1,6 +1,4 @@
 Olá, me chamo Maria Fernanda!!👋
-- Desenvolvedor júnior! 🖥
-
 <br>
 <div>
   <a href="https://github.com/mafejjj">
