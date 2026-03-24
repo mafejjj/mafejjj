@@ -1,8 +1,8 @@
 <div align="center">
 
-# ☁️ Olá, eu sou a Maria Fernanda 👋
+![banner](https://raw.githubusercontent.com/mafejjj/mafejjj/main/banner.svg)
 
-### Database Engineer | CloudOps | AWS | Backend Dev
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=500&lines=🗄️+Database+Engineer+na+CloudOps;☁️+Especialista+em+AWS+e+Cloud;🚀+Aprendendo+Backend+%26+Java;💜+From+databases+to+backends!)](https://git.io/typing-svg)
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
@@ -46,10 +46,9 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 🔧 Ferramentas & Outros
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 
@@ -73,17 +72,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mariafernandadejesus/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariafernandadejesus/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariafernandadejesus28@gmail.com)
 
 </div>
 
----
-
-<div align="center">
-
-```bash
-$ echo "Feito com 🗄️ + 💜 | From databases to backends 🚀"
-```
-
-</div>
