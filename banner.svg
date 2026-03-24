@@ -1,0 +1,88 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ede9fe"/>
+      <stop offset="50%" style="stop-color:#ddd6fe"/>
+      <stop offset="100%" style="stop-color:#c4b5fd"/>
+    </linearGradient>
+    <filter id="blur1">
+      <feGaussianBlur stdDeviation="1.5"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="200" rx="16" fill="url(#bg)"/>
+
+  <!-- Bolinhas decorativas animadas -->
+  <circle cx="60" cy="40" r="18" fill="#a78bfa" opacity="0.25">
+    <animate attributeName="cy" values="40;28;40" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25;0.4;0.25" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="820" cy="160" r="24" fill="#7c3aed" opacity="0.2">
+    <animate attributeName="cy" values="160;145;160" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.35;0.2" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="130" cy="155" r="12" fill="#6d28d9" opacity="0.3">
+    <animate attributeName="cy" values="155;143;155" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.5;0.3" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="780" cy="35" r="16" fill="#8b5cf6" opacity="0.28">
+    <animate attributeName="cy" values="35;22;35" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.28;0.45;0.28" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="30" cy="130" r="8" fill="#7c3aed" opacity="0.35">
+    <animate attributeName="cy" values="130;120;130" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="870" cy="90" r="10" fill="#a78bfa" opacity="0.3">
+    <animate attributeName="cy" values="90;78;90" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="200" cy="25" r="7" fill="#4c1d95" opacity="0.3">
+    <animate attributeName="cy" values="25;15;25" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="700" cy="175" r="14" fill="#8b5cf6" opacity="0.22">
+    <animate attributeName="cy" values="175;162;175" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="500" cy="20" r="9" fill="#7c3aed" opacity="0.2">
+    <animate attributeName="cy" values="20;10;20" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="650" cy="40" r="6" fill="#a78bfa" opacity="0.35">
+    <animate attributeName="cy" values="40;30;40" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="350" cy="170" r="11" fill="#6d28d9" opacity="0.25">
+    <animate attributeName="cy" values="170;158;170" dur="4.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="850" cy="130" r="7" fill="#4c1d95" opacity="0.3">
+    <animate attributeName="cy" values="130;120;130" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Texto principal -->
+  <text
+    x="450" y="95"
+    font-family="Georgia, serif"
+    font-size="42"
+    font-weight="bold"
+    fill="#3b0764"
+    text-anchor="middle"
+    letter-spacing="1"
+  >Maria Fernanda</text>
+
+  <!-- Subtítulo -->
+  <text
+    x="450" y="130"
+    font-family="Arial, sans-serif"
+    font-size="15"
+    fill="#6d28d9"
+    text-anchor="middle"
+    letter-spacing="0.5"
+  >Database Engineer | CloudOps | AWS | Backend Dev</text>
+</svg>
